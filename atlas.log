@@ -1,0 +1,606 @@
+2020-08-20 09:57:12 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 09:57:12 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 09:57:12 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 09:57:12 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 09:57:12 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 09:57:15 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 09:58:07 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 09:58:07 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 09:58:07 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 09:58:07 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 09:58:07 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 09:58:10 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 09:58:11 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2188010 size 1382400
+2020-08-20 09:58:11 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:58:11 [ERROR][camera.cpp:147] Get image from camera 0 failed
+2020-08-20 09:59:19 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 09:59:19 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 09:59:19 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 09:59:19 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 09:59:19 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 09:59:23 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 09:59:23 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2188010 size 1382400
+2020-08-20 09:59:23 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:59:23 [ERROR][camera.cpp:147] Get image from camera 0 failed
+2020-08-20 10:01:40 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:01:40 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:01:40 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:01:40 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:01:40 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:01:43 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:01:43 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2188010 size 1382400
+2020-08-20 10:01:43 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:01:44 [ERROR][camera.cpp:147] Get image from camera 0 failed
+2020-08-20 10:02:22 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:02:22 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:02:22 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:02:22 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:02:22 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:02:24 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:02:52 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:02:52 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:02:52 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:02:52 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:02:52 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:02:55 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:05:02 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:05:02 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:05:02 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:05:02 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:05:02 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:05:05 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:06:18 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:06:18 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:06:18 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:06:18 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:06:18 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:06:20 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:07:04 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:07:04 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:07:05 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:07:05 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:07:05 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:07:07 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:09:32 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:09:32 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:09:32 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:09:32 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:09:32 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:09:35 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:10:17 [INFO][camera.cpp:79] Set camera 0 fps to 2 ok
+2020-08-20 10:10:17 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:10:17 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:10:17 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:10:17 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:10:20 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:15:15 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:15:15 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:15:15 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:15:15 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:15:15 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:15:15 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:15 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:15 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:15 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:15 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:16 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:16 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:16 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:16 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:16 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:16 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:16 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:16 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:16 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:16 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:16 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:16 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:16 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:16 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:16 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:17 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:17 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:17 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:17 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:17 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:17 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:17 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:17 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:17 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:17 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:17 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:17 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:17 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:17 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:17 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:17 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:18 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:18 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:18 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:18 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:18 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:18 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:18 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:18 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:18 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:18 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:18 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:18 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:18 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:18 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:18 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:19 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:19 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:19 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:19 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:19 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:20 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:20 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:20 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:15:20 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 10:15:20 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 10:15:22 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 10:17:10 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:17:10 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:17:11 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:17:11 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:17:11 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:17:14 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:22:58 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:22:58 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:22:58 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:22:58 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:22:58 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:23:01 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:26:35 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:26:35 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:26:35 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:26:35 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:26:35 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:26:41 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:28:50 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:28:50 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:28:50 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:28:50 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:28:50 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:28:55 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 10:36:10 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 10:36:10 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 10:36:10 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 10:36:10 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 10:36:10 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 10:36:17 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 11:02:51 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 11:02:52 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 11:02:52 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 11:02:52 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 11:02:52 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 11:02:58 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 11:11:33 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 11:11:33 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 11:11:34 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 11:11:34 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 11:11:34 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 11:11:34 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:11:34 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:11:39 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:11:39 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:11:44 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:11:44 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:11:49 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:11:49 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:11:54 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:11:54 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:11:58 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:11:58 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:03 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:03 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:08 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:08 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:13 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:13 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:18 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:18 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:23 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:23 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:28 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:28 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:32 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:32 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:37 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:37 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:42 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:42 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:12:47 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf08f2010 size 1382400
+2020-08-20 11:12:47 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:22:24 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 11:22:24 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 11:22:24 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 11:22:24 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 11:22:24 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 11:22:25 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:22:25 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:22:25 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:26:59 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 11:26:59 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 11:26:59 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 11:26:59 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 11:26:59 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 11:27:00 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:00 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:00 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:05 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:05 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:05 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:10 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:10 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:10 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:15 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:15 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:15 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:19 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:24 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:24 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:24 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:28 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:28 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:29 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:33 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:33 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:33 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:38 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:38 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:38 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:42 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:42 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:42 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:27:47 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:27:47 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:27:47 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:29:07 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 11:29:07 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 11:29:07 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 11:29:07 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 11:29:07 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 11:29:08 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:29:08 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:29:08 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:29:15 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:29:15 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:29:15 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:29:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:29:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:29:19 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:29:24 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:29:24 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:29:24 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:29:29 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:29:29 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:29:29 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:29:33 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:29:33 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:29:33 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:29:38 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:29:38 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:29:38 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:31:00 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 11:31:00 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 11:31:00 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 11:31:00 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 11:31:00 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 11:31:01 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:31:03 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:31:03 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:31:07 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:31:07 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:31:07 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:31:12 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:31:12 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:31:12 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:31:16 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:31:16 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:31:16 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:31:21 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:31:21 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:31:21 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:31:26 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:31:26 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:31:26 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 11:31:30 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 11:31:30 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 11:31:30 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:23:28 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:23:28 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:23:28 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:23:28 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:23:28 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:23:38 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:23:38 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:23:38 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:24:22 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:24:22 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:24:22 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:24:22 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:24:22 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:24:24 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:24:24 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:24:24 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:24:30 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:24:30 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:24:30 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:25:52 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:25:52 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:25:53 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:25:53 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:25:53 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:25:54 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:25:54 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:25:54 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:29:04 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:29:04 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:29:04 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:29:04 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:29:04 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:29:05 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:29:05 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:29:05 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:29:10 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:29:10 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:29:10 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:29:14 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:29:14 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:29:14 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:29:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:29:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:29:19 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:31:54 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:31:54 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:31:55 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:31:55 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:31:55 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:31:56 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:31:56 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:31:56 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:01 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:03 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:03 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:07 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:10 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:10 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:15 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:15 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:15 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:20 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:20 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:20 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:25 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:25 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:25 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:29 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:29 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:29 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:34 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:34 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:34 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:39 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:39 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:39 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:44 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:44 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:44 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:48 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:48 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:48 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:53 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:53 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:53 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:32:58 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:32:58 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:32:58 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:33:03 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:33:03 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:33:03 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:33:07 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:33:07 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:33:07 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:33:12 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:33:12 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:33:12 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:33:17 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:33:17 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:33:17 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:33:21 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:33:21 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:33:21 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:33:26 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:33:26 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:33:26 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:39:16 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:39:16 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:39:16 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:39:16 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:39:16 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:39:17 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:39:17 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:39:17 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:39:22 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:39:24 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:39:24 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:39:29 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:39:29 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:39:29 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:39:33 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:39:33 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:39:33 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:39:38 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:39:38 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:39:38 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:39:43 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:39:43 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:39:43 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:43:34 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:43:34 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:43:35 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:43:35 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:43:35 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:43:36 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:43:36 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:43:36 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:44:18 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:44:18 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:44:18 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:44:18 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:44:18 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:44:19 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:44:19 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:44:19 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:44:25 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:44:25 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:44:25 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:49:22 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 08:49:37 [ERROR][camera.cpp:126] Open camera 0 failed.
+2020-08-20 08:50:06 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:50:06 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:50:06 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:50:06 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:50:06 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:50:08 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:50:08 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:50:08 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:50:14 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:50:17 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:54:45 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 08:54:45 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 08:54:45 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 08:54:45 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 08:54:45 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 08:54:46 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:54:46 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:54:46 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 08:54:52 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 08:54:54 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 08:54:54 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:28 [INFO][camera.cpp:79] Set camera 0 fps to 5 ok
+2020-08-20 09:22:28 [INFO][camera.cpp:87] Set camera 0 format ok
+2020-08-20 09:22:28 [INFO][camera.cpp:98] Set camera 0 resolution (1280 * 720) ok
+2020-08-20 09:22:28 [INFO][camera.cpp:107] Set camera 0 mode to ACTIVE ok
+2020-08-20 09:22:28 [INFO][camera.cpp:138] Open camera 0 success
+2020-08-20 09:22:29 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:29 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:29 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:32 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:32 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:32 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:35 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:35 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:35 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:38 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:38 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:38 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:41 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:41 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:41 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:44 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:44 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:44 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:47 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:47 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:47 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:49 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:49 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:49 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:52 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:52 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:52 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:55 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:55 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:55 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:22:58 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:22:58 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:22:58 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:01 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:01 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:01 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:04 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:04 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:04 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:07 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:07 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:07 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:10 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:11 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:11 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:14 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:14 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:14 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:17 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:17 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:17 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:20 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:20 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:20 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:22 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:22 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:22 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:25 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:25 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:25 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:28 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:28 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:28 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:31 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:31 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:31 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:34 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:34 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:34 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:37 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:37 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:37 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:39 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:39 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:39 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:42 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:42 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:42 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:45 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:45 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:45 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:48 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:48 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:48 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:51 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:51 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:51 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:54 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:54 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:54 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:56 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:56 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:57 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:23:59 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:23:59 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:23:59 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:24:02 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:24:02 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:24:02 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:24:05 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:24:05 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:24:05 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
+2020-08-20 09:24:08 [INFO][camera.cpp:190] Read image from camera 0, buffer 0xf2500010 size 1382400
+2020-08-20 09:24:08 [INFO][camera.cpp:144] ReadFrameYuv
+2020-08-20 09:24:08 [INFO][dvpp_image.cpp:141] Conver jpeg return 0
